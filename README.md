@@ -1,2 +1,3 @@
 # lemonster
-Lemonster is an educational DIY kit packaged as monster toy instrument
+
+Lemonster is an educational DIY kit packaged as monster toy instrument. Lemonster teaches very basics of two phenomena 1) electrolysis in generating small electric voltage and 2) synthesizing sound with the electricity using simple analogue electronic components. Metal electrodes in fruit or vegetable like lemon or potato power the sound circuit on breadboard. Lemonster is open design and all parts apart from the electronic components and metals can be made with 3D printer. Lemonster was developed for Prototyping Factory workshops in Taiwan National Science Education Center, hosted by Dimension+in Taipei, Taiwan October 2015.
