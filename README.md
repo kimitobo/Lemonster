@@ -1,4 +1,4 @@
-# LEMONSTER 1
+# LEMONSTER
 
 Lemonster is an educational science DIY kit packaged as a monster toy instrument. It introduces the basics of two physical phenomenons 1) generating electricity with electrolysis and 2) synthesising square wave electronic sound. Lemonster is a "sceleton" holding together a slices of fruit or vegetable that can be used as "powercells" in series for bit ov electric chrage and a sound circuit on small breadboard. Lemonster parts can be 3D printed or laser cut and the electronic components are inexpensive, robust components, suitable for tinkering for all ages.
 
@@ -14,5 +14,5 @@ Sound is energy of vibrations. When the small metal plate in the piezo element i
 
 Lemonster uses two of the four gates, and the first gate controls the second gate making a rhythmic pulse for the pitch from the second gate. The rhythm is controlled by the potentiometer in the Lemonsters nose, and the pitch is controlled by the light resistor between its eyes.
 
-Lemonster was developed for Prototyping Factory workshops in Taiwan National Science Education Center, hosted by Dimension+ in Taipei, Taiwan October 2015. Lemonster would have not been possible without dedicated help by Dimension+ team 
+Lemonster was developed for Prototyping Factory workshops in Taiwan National Science Education Center, hosted by Dimension+ in Taipei, Taiwan October 2015. Lemonster would have not been possible without dedicated help by Dimension+ team
 Escher Tsai, I-chern Lai, Darry Dai, Lanli chen, Yinnu Chen and master-workshopologist Marc Dusseiller
