@@ -1,4 +1,4 @@
-# LEMONSTER
+# LEMONSTER 1
 
 Lemonster is an educational science DIY kit packaged as a monster toy instrument. It introduces the basics of two physical phenomenons 1) generating electricity with electrolysis and 2) synthesising square wave electronic sound. Lemonster is a "sceleton" holding together a slices of fruit or vegetable that can be used as "powercells" in series for bit ov electric chrage and a sound circuit on small breadboard. Lemonster parts can be 3D printed or laser cut and the electronic components are inexpensive, robust components, suitable for tinkering for all ages.
 
