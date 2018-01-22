@@ -1,6 +1,6 @@
 # LEMONSTER
 
-Lemonster is an educational science DIY kit packaged as a monster toy instrument. It introduces the basics of two physical phenomenons 1) generating electricity with electrolysis and 2) synthesising square wave electronic sound. Lemonster is a "sceleton" holding together a slices of fruit or vegetable that can be used as "powercells" in series for bit ov electric chrage and a sound circuit on small breadboard. Lemonster parts can be 3D printed or laser cut and the electronic components are inexpensive, robust components, suitable for tinkering for all ages.
+Lemonster is an educational DIY science-kit in the shape of a creature. It introduces the basics of two physical phenomenons 1) generating electricity with electrolysis and 2) synthesising square wave electronic sound. Lemonster is a plastic or plywood "skeleton" holding together a slices of fruit or vegetable, which are connected together with pieces of copper and zinc/magnesium, generating bit of electric chrage from electrolysis of metals and the fruit acid, to power a simple sound circuit on small breadboard. Lemonster parts can be 3D printed or laser cut and the electronic components are inexpensive, robust components, suitable for tinkering for all ages.
 
 ## Electrolysis
 
@@ -10,9 +10,7 @@ In Lemonster, one lemon is cut to four slices and a copper wire & and a zinc nai
 
 ## Electronic sound synthesis
 
-Sound is energy of vibrations. When the small metal plate in the piezo element in the Lemonster sound circuit vibrates, it moves the air around it and makes sound waves. These waves of air vibrations we can hear as sound in our ears. The sound circuit itself has only very few components: the integrated circuit the NANDgate that works as a very quick switch (on&off / high&low), few capacitors that charge and discharge electricity (like a small but very fast battery), some resistors (light resistor and potentiometer) that slows and speeds up the switching and the piezo speaker, that turns the electric signal to audible frequencies.
-
-Lemonster uses two of the four gates, and the first gate controls the second gate making a rhythmic pulse for the pitch from the second gate. The rhythm is controlled by the potentiometer in the Lemonsters nose, and the pitch is controlled by the light resistor between its eyes.
+Sound is energy of vibrations. When the small metal plate in the piezo element in the Lemonster sound circuit vibrates, it moves the air around it and makes sound waves. These waves of air vibrations we can hear as sound in our ears. The sound circuit itself has only very few components: the integrated circuit the NANDgate that works as a very quick switch (on&off / high&low), few capacitors that charge and discharge electricity (like a small but very fast battery), some resistors (light resistor and potentiometer) that slows and speeds up the switching and the piezo speaker, that turns the electric signal to audible frequencies. Lemonster uses two of the four gates, and the first gate controls the second gate making a rhythmic pulse for the pitch from the second gate. The rhythm is controlled by the potentiometer in the Lemonsters nose, and the pitch is controlled by the light resistor between its eyes.
 
 Lemonster was developed for Prototyping Factory workshops in Taiwan National Science Education Center, hosted by Dimension+ in Taipei, Taiwan October 2015. Lemonster would have not been possible without dedicated help by Dimension+ team
 Escher Tsai, I-chern Lai, Darry Dai, Lanli chen, Yinnu Chen and master-workshopologist Marc Dusseiller
