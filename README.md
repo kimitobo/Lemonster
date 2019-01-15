@@ -14,5 +14,7 @@ In Lemonster, one lemon is cut to four slices and a copper wire & and a zinc nai
 
 Sound is energy of vibrations. When the small metal plate in the piezo element in the Lemonster sound circuit vibrates, it moves the air around it and makes sound waves. These waves of air vibrations we can hear as sound in our ears. The sound circuit itself has only very few components: the integrated circuit the NANDgate that works as a very quick switch (on&off / high&low), few capacitors that charge and discharge electricity (like a small but very fast battery), some resistors (light resistor and potentiometer) that slows and speeds up the switching and the piezo speaker, that turns the electric signal to audible frequencies. Lemonster uses two of the four gates, and the first gate controls the second gate making a rhythmic pulse for the pitch from the second gate. The rhythm is controlled by the potentiometer in the Lemonsters nose, and the pitch is controlled by the light resistor between its eyes.
 
+https://github.com/kimitobo/nandsynth
+
 Lemonster was developed for Prototyping Factory workshops in Taiwan National Science Education Center, hosted by Dimension+ in Taipei, Taiwan October 2015. Lemonster would have not been possible without dedicated help by Dimension+ team
 Escher Tsai, I-chern Lai, Darry Dai, Lanli chen, Yinnu Chen and master-workshopologist Marc Dusseiller
