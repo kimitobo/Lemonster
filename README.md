@@ -1,3 +1,5 @@
+(!Documentation unfinished!)
+
 # LEMONSTER
 
 Lemonster is an educational DIY science-kit in the shape of a creature. It introduces the basics of two physical phenomenons 1) generating electricity with electrolysis and 2) synthesising square wave electronic sound. Lemonster is a plastic or plywood "skeleton" holding together a slices of fruit or vegetable, which are connected together with pieces of copper and zinc/magnesium, generating bit of electric chrage from electrolysis of metals and the fruit acid, to power a simple sound circuit on small breadboard. Lemonster parts can be 3D printed or laser cut and the electronic components are inexpensive, robust components, suitable for tinkering for all ages.
